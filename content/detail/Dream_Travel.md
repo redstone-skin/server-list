@@ -12,7 +12,7 @@ yggdrasil: false
 
 <table style="text-align:center">
 	<tr style="background-color: #eff3f5;">
-	    <th colspan="5" style="text-align:center">♾️                      梦想之旅（模组区）                     ♾️</th>
+	    <th colspan="5" style="text-align:center">♾️                       梦想之旅（模组区）                     ♾️</th>
 	</tr>
 	<tr style="background-color: #f7f7f7;" align="center">
 	    <td>💎</td>
