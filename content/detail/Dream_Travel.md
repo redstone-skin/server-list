@@ -116,9 +116,9 @@ yggdrasil: false
 	    <td>💎</td>
 	</tr>
 </table>
-
-专用客户端： https://share.weiyun.com/SSbHdwgc
-视频：
- · 宣传片： https://www.bilibili.com/video/BV1pP411t7at
- · 启动教程片： https://www.bilibili.com/video/BV1F14y1X7wG
+</br></br>
+专用客户端： https://share.weiyun.com/SSbHdwgc</br>
+视频：</br>
+ · 宣传片： https://www.bilibili.com/video/BV1pP411t7at</br>
+ · 启动教程片： https://www.bilibili.com/video/BV1F14y1X7wG</br>
  · 更多视频： https://space.bilibili.com/342910568
