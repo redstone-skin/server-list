@@ -2,7 +2,7 @@
 name: 梦想之旅（模组区）
 address: mc11.rhymc.com:52056
 group: 422245673
-icon: https://s1.ax1x.com/2023/08/05/pPkY0gI.png<img src="https://s1.ax1x.com/2023/08/05/pPkY0gI.png">
+icon: https://s1.ax1x.com/2023/08/05/pPkY0gI.png
 download: https://share.weiyun.com/SSbHdwgc
 version: 1.16.5
 yggdrasil: false
@@ -116,3 +116,9 @@ yggdrasil: false
 	    <td>💎</td>
 	</tr>
 </table>
+
+专用客户端： https://share.weiyun.com/SSbHdwgc
+视频：
+ · 宣传片： https://www.bilibili.com/video/BV1pP411t7at
+ · 启动教程片： https://www.bilibili.com/video/BV1F14y1X7wG
+ · 更多视频： https://space.bilibili.com/342910568
