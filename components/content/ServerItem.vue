@@ -55,7 +55,6 @@ const handleServerInfo = async () => {
   const res = await fetch(`https://api.mcsrvstat.us/2/${props.server}`);
   const data = await res.json();
   if (data.online) {
-    console.log(data);
     motd.value = data.motd.html.join("<br>");
     pingIcon.value = data.icon;
     onlinePlayers.value = data.players.online;

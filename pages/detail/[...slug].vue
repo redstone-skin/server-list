@@ -1,7 +1,7 @@
 <template>
   <div>
     <NarBar></NarBar>
-    <div class="mt-12 container mx-auto">
+    <div class="mt-12 container mx-auto px-2">
       <ContentDoc v-slot="{ doc }">
         <div class="py-6">
           <!--服务器信息-->

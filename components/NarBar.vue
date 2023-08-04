@@ -1,6 +1,6 @@
 <template>
   <div class="shadow bg-transparent backdrop-blur fixed left-0 right-0 top-0">
-    <div class="container mx-auto flex flex-row h-12 items-center">
+    <div class="container mx-auto flex flex-row h-12 items-center px-2">
       <div class="text-2xl font-thin">红石·找服</div>
       <div class="flex-1"></div>
       <div>
