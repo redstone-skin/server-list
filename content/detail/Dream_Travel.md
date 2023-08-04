@@ -112,7 +112,8 @@ yggdrasil: false
 	</tr>
 	<tr align="center">
 	    <td>💎</td>
-	    <td colspan="3">进入 梦想之旅（模组区） 后，您需要先通关新手历练，才能进入刺激冒险哦</td>
+	    <td colspan="3">进入 梦想之旅（模组区） 后，您需要先通关新手历练，才能进入刺激冒险哦[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)</td>
 	    <td>💎</td>
 	</tr>
 </table>
+[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
