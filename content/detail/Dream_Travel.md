@@ -117,7 +117,7 @@ yggdrasil: false
 	</tr>
 </table>
 </br></br>
-专用客户端： https://share.weiyun.com/SSbHdwgc</br>
+专用客户端： https://share.weiyun.com/SSbHdwgc</br></br>
 视频：</br>
  · 宣传片： https://www.bilibili.com/video/BV1pP411t7at</br>
  · 启动教程片： https://www.bilibili.com/video/BV1F14y1X7wG</br>
