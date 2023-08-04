@@ -2,7 +2,7 @@
 name: 梦想之旅（模组区）
 address: mc11.rhymc.com:52056
 group: 422245673
-icon: https://s1.ax1x.com/2023/08/05/pPkY0gI.png<img src="https://s1.ax1x.com/2023/08/05/pPkY0gI.png" height="300" width="450">
+icon: https://s1.ax1x.com/2023/08/05/pPkY0gI.png<img src="https://s1.ax1x.com/2023/08/05/pPkY0gI.png">
 download: https://share.weiyun.com/SSbHdwgc
 version: 1.16.5
 yggdrasil: false
