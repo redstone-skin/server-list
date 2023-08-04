@@ -52,10 +52,10 @@ const icon = computed(() => {
 });
 
 const handleServerInfo = async () => {
-  const res = await fetch(`https://api.mcsrvstat.us/2/${props.server}`);
+  const res = await fetch(`https://mcstat.mcskin.cn/api/status/${props.server}`);
   const data = await res.json();
   if (data.online) {
-    motd.value = data.motd.html.join("<br>");
+    motd.value = data.motd.html;
     pingIcon.value = data.icon;
     onlinePlayers.value = data.players.online;
   } else {
