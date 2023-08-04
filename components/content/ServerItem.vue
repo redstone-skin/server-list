@@ -42,8 +42,6 @@ const props = defineProps({
 const pingIcon = ref(unknownIcon);
 
 const icon = computed(() => {
-  console.log(props.icon);
-  console.log(pingIcon);
   if (props.icon) {
     return props.icon;
   } else {
