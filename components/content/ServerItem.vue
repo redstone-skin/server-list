@@ -54,7 +54,7 @@ const handleServerInfo = async () => {
   const data = await res.json();
   if (data.online) {
     motd.value = data.motd.html;
-    pingIcon.value = data.icon;
+    pingIcon.value = data.icon ? data.icon : unknownIcon;
     onlinePlayers.value = data.players.online;
   } else {
     motd.value = "服务器离线";
