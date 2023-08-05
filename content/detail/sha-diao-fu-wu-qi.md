@@ -25,3 +25,4 @@ yggdrasil: true
 ## 链接
 
 - [注册红石账号](https://mcskin.cn/register)
+- [加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=TisCfoFyzQCzaL7lflrZEtw4qY2w0IfU&authKey=bJ7b7b54UASuJi5JcXpjzECdi8CUMOF6xC9yEaPjCKPzJKigrdXSyUSs2yEPT%2FM7&noverify=0&group_code=798849711)
