@@ -19,7 +19,6 @@
                   v-if="item.link"
                   :href="item.value"
                   target="_blank"
-                  external
                   class="text-ellipsis overflow-hidden whitespace-nowrap"
                   >{{ item.value }}</NuxtLink
                 >
@@ -52,6 +51,11 @@
 </template>
 <script setup lang="ts">
 
+const checkUrlPrefix = (str: string) => {
+  return str.startsWith("http:") || str.startsWith("https:");
+}
+
+
 const toInfoItems = (doc: any) => {
   const items = [];
   if (doc.team) {
@@ -82,14 +86,14 @@ const toInfoItems = (doc: any) => {
     items.push({
       label: "网站",
       value: doc.website,
-      link: true,
+      link: checkUrlPrefix(doc.website),
     });
   }
   if (doc.download) {
     items.push({
       label: "客户端下载地址",
       value: doc.download,
-      link: true,
+      link: checkUrlPrefix(doc.download),
     });
   }
   items.push({
