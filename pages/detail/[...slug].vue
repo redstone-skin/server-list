@@ -12,14 +12,16 @@
               <div
                 v-for="item in toInfoItems(doc)"
                 :key="item.label"
-                class="flex flex-row items-center h-10 lg:w-1/3 md:w-1/2 sm:w-full text-sm"
+                class="flex flex-row items-center h-10 md:w-1/3 sm:w-1/2 w-full text-sm"
               >
                 <div class="min-w-fit">{{ item.label }}：</div>
-                <a
+                <NuxtLink 
                   v-if="item.link"
                   :href="item.value"
+                  target="_blank"
+                  external
                   class="text-ellipsis overflow-hidden whitespace-nowrap"
-                  >{{ item.value }}</a
+                  >{{ item.value }}</NuxtLink
                 >
                 <div
                   v-else
