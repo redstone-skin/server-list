@@ -12,7 +12,10 @@
       <div class="text-sm" v-html="motd"></div>
     </div>
     <div class="flex flex-col flex-shrink-0">
-      <div class="text-sm"><span class="font-bold text-green-300">{{ onlinePlayers }}</span> 玩家在玩</div>
+      <div class="text-sm">
+        <span class="font-bold text-green-300">{{ onlinePlayers }}</span>
+        玩家在玩
+      </div>
     </div>
   </div>
 </template>
@@ -50,13 +53,19 @@ const icon = computed(() => {
 });
 
 const handleServerInfo = async () => {
-  const res = await fetch(`https://mcstat.mcskin.cn/api/status/${props.server}`);
-  const data = await res.json();
-  if (data.online) {
-    motd.value = data.motd.html;
-    pingIcon.value = data.icon ? data.icon : unknownIcon;
-    onlinePlayers.value = data.players.online;
-  } else {
+  try {
+    const res = await fetch(
+      `https://mcstat.mcskin.cn/api/status/${props.server}`
+    );
+    const data = await res.json();
+    if (data.online) {
+      motd.value = data.motd.html;
+      pingIcon.value = data.icon ? data.icon : unknownIcon;
+      onlinePlayers.value = data.players.online;
+    } else {
+      motd.value = "服务器离线";
+    }
+  } catch (e) {
     motd.value = "服务器离线";
   }
 };
