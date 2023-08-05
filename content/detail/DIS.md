@@ -1,56 +1,40 @@
 ---
-name: DIS生电服<二周目-机械动力>
+name: DIS-MT
 address: p5.simpfun.cn:8980 
 group: 1044249627
-icon: ''
-download: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4f1qcQSALLSW1D4AiAkElcuXgwOSEiBL&authKey=iJUjZaInu0lFl9qUx6ddqk4eumGprd4fcraK5ZFm%2BbcLxK0yYoFmFYAm8JpPKRDZ&noverify=0&group_code=623768573
-version: 1.8.9-1.16.5
-website: https://mcskin.cn/download
-team: 红石服务器
+icon: 'https://pic-up.star-skin.cn/i/2023/08/05/dd2fe620-c1b0-67da-3c6d-1281ccb8df31.png'
+download: https://t.1l1.icu/dismc-client
+version: 1.19.2
+website: 暂时维护
+team: DIS Team
 yggdrasil: true
 
 ---
-# DIS-Mechanical town服务器群 | 欢乐暑假
+# DIS-Mechanical Town
 
 ## 介绍
 
-这是一个示例服务器模板，你可以在这里写一些服务器的介绍，比如服务器的特色、服务器的玩法等等。     
-一个服务器宣传页仅允许宣传一个服务器，如果你想宣传多个服务器，请创建多个宣传页。
+这里是DIS的二周目Mechanical town。我们不在满足于原版的各种玩法，从而引进Create机械动力及其附属模组，获得更多有意思的全新体验。在这里，我们化身机械大师，打造各类不同而有创新的机器。不再是单块的熔炉，是具有机械系统驱动；没有枯燥的GUI，而是充满科技的，具有交互动画的合成过程。Minecraft也会具有现实生活中机械的真是物理效果哦。我们正属开荒盛季，有兴趣的速速加入我们吧！
 
 ## 服务器信息填写指南
 
-- name: 服务器名称，必填，否则拒绝发布
-- address: 服务器地址，必填，用于获取服务器motd信息。
-- group: QQ群号，可选。
-- download: 服务器下载地址，可选。
-- version: 服务器版本，可选。
-- website: 服务器网站，可选。
-- team: 服务器团队，可选。
-- yggdrasil: 是否使用红石皮肤站外置登录，可选，默认为false。
-- icon: 服务器图标，可选，如果不填写则使用 ping 到的服务器图标。
+- name: DIS-MT
+- address: p5.simpfun.cn:8980
+- group: 1044249627
+- download: https://t.1l1.icu/dismc-client
+- version: 1.19.2
+- website: 暂时维护
+- team: DIS Team
+- yggdrasil: ture
+- icon: [DIS](https://pic-up.star-skin.cn/i/2023/08/05/dd2fe620-c1b0-67da-3c6d-1281ccb8df31.png)
 
-请注意，请至少提供一种玩家可以获取游玩信息的渠道，否则拒绝发布。
-
-## 图片
-
-请在 `/public/images/` 目录下单独创建文件夹存放图片，文件夹名称应该与 markdown 文件名称相同，以便进行管理。也可以自行寻找图床存放图片。
-
-> 插入的图片格式：`![图片名称](/images/文件夹名/图片.png)`。
-
-![示例图片](/images/example/table_bg.png)
 
 ## 表格
-> 这里是一个表格示例，你可以在这里写一些服务器的介绍，比如服务器的特色、服务器的玩法等等。
 
-| 服务器名称 |  |
+| 服务器名称 | DIS-MT |
 | :---: | :---: |
-| 服务器地址 | play.mcskin.cn |
-| 服务器版本 | 1.8.9-1.16.5 |
-| 服务器网站 | https://mcskin.cn/download |
-| 服务器下载 | https://mcskin.cn/download |
-| 服务器团队 | 红石服务器 |
-
-## 链接
-
-- [示例链接](https://mcskin.cn/download)
-- [注册红石账号](https://mcskin.cn/register)
+| 服务器地址 | p5.simpfun.cn:8980 |
+| 服务器版本 | 1.19.2 |
+| 服务器网站 | 暂时维护 |
+| 服务器下载 | https://t.1l1.icu/dismc-client |
+| 服务器团队 | DIS Team |
