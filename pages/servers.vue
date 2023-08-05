@@ -1,49 +1,22 @@
 <template>
   <div>
-    <NuxtLink
-      v-for="server in serverList"
-      :key="server.path"
-      :to="server.path"
-      target="_blank"
-    >
-      <ServerItem
-        v-if="!server.hide"
-        class="mb-1"
-        :name="server.name"
-        :server="server.address"
-      ></ServerItem>
-    </NuxtLink>
+    <ContentList path="/detail">
+      <template #default="{ list }">
+        <NuxtLink v-for="server in randSort(list)" :key="server._path" :to="server._path"  target="_blank">
+          <ServerItem v-if="!server.hide" class="mb-1" :name="server.name" :server="server.address"></ServerItem>
+        </NuxtLink>
+      </template>
+      <template #not-found>
+        <p>No articles found.</p>
+      </template>
+    </ContentList>
   </div>
 </template>
 
 <script lang="ts" setup>
 import ServerItem from "@/components/content/ServerItem.vue";
 
-const serverList = ref<
-  {
-    path: string;
-    name: string;
-    address: string;
-    hide: boolean;
-  }[]
->([]);
-
-const loadServers = async () => {
-  const contentQuery = queryContent("detail");
-  serverList.value = (await contentQuery.find())
-    .map((item) => {
-      return {
-        path: item._path as string,
-        name: item.name,
-        address: item.address,
-        hide: item.hide,
-      };
-    })
-    .sort(() => {
-      // random sort
-      return Math.random() > 0.5 ? 1 : -1;
-    });
-};
-
-loadServers();
+const randSort = (list: any[]) => {
+  return list.sort(() => Math.random() - 0.5);
+}
 </script>
