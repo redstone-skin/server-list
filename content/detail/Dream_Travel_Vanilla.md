@@ -1,6 +1,6 @@
 ---
 name: 梦想之旅（纯净区）
-address: play.simpfun.vip:30308
+address: play.simpfun.cn:10291
 group: 422245673
 icon: https://s1.ax1x.com/2023/08/05/pPkHndP.png
 download: https://share.weiyun.com/SSbHdwgc
