@@ -1,7 +1,7 @@
 ---
 name: 1.8.X怀旧养老生存建筑杂锦服
 address: 128.ray1.cf
-group: 617574588（由于群主VIP到期，暂时无法加入）
+group: 617574588（由于群主VIP到期，暂时无法加入），暂时794969300
 icon: 
 download: 
 version: 1.4.6-1.20.2
