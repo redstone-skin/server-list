@@ -6,7 +6,7 @@ icon: 'https://spcraft.1l1.icu/favicon.ico'
 download: ""
 version: 1.19-1.20.1
 website: https://spcraft.1l1.icu
-team: "XM's Net&Work -> SPCraftMC"
+team: "SPCraftMC团队"
 yggdrasil: true
 ---
 # 风雨阁Storm Pavilion
