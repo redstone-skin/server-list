@@ -11,7 +11,11 @@ yggdrasil: false
 ## 介绍
 
 一个以建筑为玩法的创造服务器
-群：132939895
+官网：www.dfggmc.top
+丐版官网：dfggmc.eu.org
+加入我们：
+https://dfggmc.top/#link
+https://dfggmc.eu.org/join.html
 正版，离线和外置登录可进服务器
 
 ## 服务器信息
