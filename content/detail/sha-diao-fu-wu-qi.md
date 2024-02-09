@@ -1,6 +1,6 @@
 ---
 name: 沙雕服务器（招人）
-address: ray1.cf
+address: sdfwq.top
 group: 798849711
 version: 1.20.1
 team: 小鳐鱼
