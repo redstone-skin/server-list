@@ -4,7 +4,7 @@ address: 128.fanka.eu.org
 group: 794969300
 icon: 
 download: 
-version: 1.4.6-1.20.4
+version: 1.4.6-1.20.6
 website: 
 team: Space 128
 yggdrasil: false
@@ -30,4 +30,4 @@ yggdrasil: false
 
 # 注意
 
-- [建议使用红石皮肤站账号，服务器可自动加载红石皮肤站的普通皮肤](https://mcskin.cn/)
+- [建议使用红石皮肤站账号，服务器可自动加载红石皮肤站的普通皮肤](https://mcskin.com.cn/)
