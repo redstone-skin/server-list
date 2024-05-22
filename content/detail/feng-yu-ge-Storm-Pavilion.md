@@ -1,10 +1,10 @@
 ---
 name: "风雨阁Storm Pavilion"
-address: mc.1l1.icu
+address: mc.spcraft.1l1.icu
 group: 1165489597
 icon: 'https://spcraft.1l1.icu/favicon.ico'
 download: ""
-version: 1.19-1.20.1
+version: 1.16.5-1.20.4
 website: https://spcraft.1l1.icu
 team: "SPCraftMC团队"
 yggdrasil: true
@@ -21,7 +21,7 @@ yggdrasil: true
 ### 账户验证
 
 在全新的版本中，风雨阁 Storm Pavilion 化繁为简，去除复杂的 2FA 验证模式，阁下只需要一个外置登录账户/基岩版账户即可畅游服务器。  
-感谢 [红石皮肤站(https://mcskin.cn/)](https://mcskin.cn/)，[星空皮肤站(https://star-skin.cn/)](https://star-skin.cn/) 提供了外置登录服务器。
+感谢 [红石皮肤站(https://mcskin.cn/)](https://mcskin.cn/)<!--，[星空皮肤站(https://star-skin.cn/)](https://star-skin.cn/)--> 提供了外置登录服务器。
 
 ## 社区
 
