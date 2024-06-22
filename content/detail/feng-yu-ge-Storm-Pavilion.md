@@ -2,10 +2,10 @@
 name: "风雨阁Storm Pavilion"
 address: mc.spcraft.cn
 group: 1165489597
-icon: 'https://spcraft.1l1.icu/favicon.ico'
+icon: 'https://spcraft.cn/favicon.ico'
 download: ""
 version: 1.16.5-1.21
-website: https://spcraft.1l1.icu
+website: https://spcraft.cn
 team: "SPCraftMC团队"
 yggdrasil: true
 ---
@@ -25,7 +25,7 @@ yggdrasil: true
 
 ## 加入我们
 
-- 官方网站 [https://spcraft.1l1.icu/](https://spcraft.1l1.icu/)
+- 官方网站 [https://spcraft.1l1.icu/](https://spcraft.cn/)
 
 - 官方社区
   - QQ群: [1165489597(https://jq.qq.com/?_wv=1027&k=iY54yw0Y)](https://jq.qq.com/?_wv=1027&k=iY54yw0Y)
