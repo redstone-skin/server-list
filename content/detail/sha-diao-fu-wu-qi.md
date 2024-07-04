@@ -2,7 +2,7 @@
 name: 沙雕服务器
 address: sdfwq.top
 group: 798849711
-version: 1.20.6
+version: 1.20.1
 team: 个人
 yggdrasil: true
 ---
@@ -20,7 +20,7 @@ yggdrasil: true
 | :---: | :---: |
 | 服务器地址 | sdfwq.top |
 | 备用服务器地址 | backup.sdfwq.top |
-| 服务器版本 | 1.20.6 |
+| 服务器版本 | 1.20.1 |
 | 服务器团队 | 个人 |
 
 ## 链接
