@@ -1,10 +1,10 @@
 ---
 name: 梦想之旅（纯净区）
-address: play.simpfun.cn:10291
+address: vanilla.thexiaola.top
 group: 422245673
 icon: https://s1.ax1x.com/2023/08/05/pPkHndP.png
 download: https://share.weiyun.com/SSbHdwgc
-version: 1.16.5
+version: 1.20.1
 yggdrasil: false
 
 ---
@@ -85,13 +85,13 @@ yggdrasil: false
 	    <td>💎</td>
     <td rowspan="3">细</br>节</br>信</br>息</td>
 	    <td>QQ群：422245673</td>
-	    <td>游戏版本：1.16.5</td>
+	    <td>游戏版本：1.20.1</td>
 	  	<td>💎</td>
 	</tr>
 	<tr align="center">
 	    <td>💎</td>
-	    <td>可以使用 1.7.2 - 1.20.1 的客户端游玩</td>
-	    <td>支持大部分设备游玩</td>
+	    <td>可以使用 1.7.2 - 最新正式版 的客户端游玩</td>
+	    <td>此外还支持基岩版游玩</td>
 	  	<td>💎</td>
 	</tr>
 	<tr align="center">
@@ -115,5 +115,5 @@ yggdrasil: false
 专用客户端： https://share.weiyun.com/SSbHdwgc</br></br>
 视频：</br>
  · 宣传片： https://www.bilibili.com/video/BV1wx4y19739</br>
- · 启动教程片： https://www.bilibili.com/video/BV1F14y1X7wG</br>
+ · 启动教程片： https://www.bilibili.com/video/BV18jWFevEWp</br>
  · 更多视频： https://space.bilibili.com/342910568
