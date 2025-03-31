@@ -14,7 +14,8 @@
     <div class="flex flex-col flex-shrink-0">
       <div class="text-sm">
         <span class="font-bold text-green-300">{{ onlinePlayers }}</span>
-        玩家在玩
+        /
+        <span class="font-bold text-green-300">{{ maxPlayers }}</span>
       </div>
     </div>
   </div>
@@ -52,6 +53,11 @@ const icon = computed(() => {
   }
 });
 
+
+const motd = ref("正在获取服务器信息...");
+const onlinePlayers = ref(0);
+const maxPlayers = ref(0);
+
 const handleServerInfo = async () => {
   try {
     const res = await fetch(
@@ -62,6 +68,7 @@ const handleServerInfo = async () => {
       motd.value = data.motd.html;
       pingIcon.value = data.icon ? data.icon : unknownIcon;
       onlinePlayers.value = data.players.online;
+      maxPlayers.value = data.players.max
     } else {
       motd.value = "服务器离线";
     }
@@ -70,8 +77,6 @@ const handleServerInfo = async () => {
   }
 };
 
-const motd = ref("正在获取服务器信息...");
-const onlinePlayers = ref(0);
 
 handleServerInfo();
 </script>
