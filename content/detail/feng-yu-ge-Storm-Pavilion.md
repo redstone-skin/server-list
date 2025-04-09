@@ -4,7 +4,7 @@ address: mc.spcraft.cn
 group: 1165489597
 icon: 'https://spcraft.cn/favicon.ico'
 download: ""
-version: 1.16.5-1.21.4
+version: 1.16.5-1.21.5
 website: https://spcraft.cn
 team: "SPCraftMC团队"
 yggdrasil: true
@@ -21,13 +21,14 @@ yggdrasil: true
 ### 账户验证
 
 在全新的版本中，风雨阁 Storm Pavilion 化繁为简，去除复杂的 2FA 验证模式，阁下只需要一个外置登录账户/基岩版账户即可畅游服务器。  
-感谢 [红石皮肤站(https://mcskin.cn/)](https://mcskin.cn/) 提供了外置登录服务器。
+感谢 [红石皮肤站(https://mcskin.com.cn/)](https://mcskin.com.cn/) 提供了外置登录服务器。
 
 ## 加入我们
 
-- 官方网站 [https://spcraft.cn/](https://spcraft.cn/)
+请优先加入Oopz域！
 
 - 官方社区
+  - Oopz域: [593200932](593200932)
   - QQ群: [1165489597(https://jq.qq.com/?_wv=1027&k=iY54yw0Y)](https://jq.qq.com/?_wv=1027&k=iY54yw0Y)
  
 
