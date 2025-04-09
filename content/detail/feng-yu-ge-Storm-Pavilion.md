@@ -28,8 +28,8 @@ yggdrasil: true
 请优先加入Oopz域！
 
 - 官方社区
-  - Oopz域: [593200932](593200932)
-  - QQ群: [1165489597(https://jq.qq.com/?_wv=1027&k=iY54yw0Y)](https://jq.qq.com/?_wv=1027&k=iY54yw0Y)
+  - Oopz域: [593200932](https://oopz.cn/i/X5aWo5)
+  - QQ群: [1165489597](https://jq.qq.com/?_wv=1027&k=iY54yw0Y)
  
 
 ## 版权&免责声明
