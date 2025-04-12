@@ -23,5 +23,5 @@ yggdrasil: true
 
 ## 链接
 
-- [群聊]([https://mcskin.cn/download](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c3H3uc1xiJZTYHXzCpUxzKtZ3sDoVCDm&authKey=hzrSxYRHcHrXdxLWpIgOeHnDFtTpvovUcehDJRn1zAbYzhkDM3a3aWbmZ5JgOfpz&noverify=0&group_code=798849711))
+- [群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c3H3uc1xiJZTYHXzCpUxzKtZ3sDoVCDm&authKey=hzrSxYRHcHrXdxLWpIgOeHnDFtTpvovUcehDJRn1zAbYzhkDM3a3aWbmZ5JgOfpz&noverify=0&group_code=798849711)
 - [注册红石账号](https://mcskin.cn/register)
