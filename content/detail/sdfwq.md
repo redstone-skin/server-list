@@ -4,7 +4,7 @@ address: gamemc.cn
 group: 798849711
 icon: ''
 download: https://mcskin.com.cn/
-version: 1.8.9-1.16.5
+version: 1.20+
 website: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c3H3uc1xiJZTYHXzCpUxzKtZ3sDoVCDm&authKey=hzrSxYRHcHrXdxLWpIgOeHnDFtTpvovUcehDJRn1zAbYzhkDM3a3aWbmZ5JgOfpz&noverify=0&group_code=798849711
 team: 小鳐鱼
 yggdrasil: true
