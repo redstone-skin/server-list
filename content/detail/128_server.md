@@ -4,7 +4,7 @@ address: 128.fanka.eu.org
 group: 794969300
 icon: 
 download: 
-version: 1.4.6-1.20.6
+version: 1.4.6-1.21.X
 website: 
 team: Space 128
 yggdrasil: false
@@ -24,7 +24,7 @@ yggdrasil: false
 | :---: | :---: |
 | 服务器地址 | 128.fanka.eu.org |
 | 服务器版本 | Spigot 1.8.9 |
-| 客户端版本 | 1.4.6-1.7.X-1.8.X-1.20.X+特殊版本 |
+| 客户端版本 | 1.4.6-1.7.X-1.8.X-1.21.X+特殊版本 |
 | 服务器玩法 | 旧版生存/养老/建筑/粘液科技（需要看得懂英文）/枪械 | 
 | 服务器团队 | Space 128 |
 
