@@ -2,10 +2,8 @@
 name: 沙雕服务器
 address: gamemc.cn
 group: 798849711
-icon: ''
-download: https://mcskin.com.cn/
-version: 1.20+
-website: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c3H3uc1xiJZTYHXzCpUxzKtZ3sDoVCDm&authKey=hzrSxYRHcHrXdxLWpIgOeHnDFtTpvovUcehDJRn1zAbYzhkDM3a3aWbmZ5JgOfpz&noverify=0&group_code=798849711
+version: 一区1.20.x，二区最新版
+website: https://static-server.mcskin.cn/detail/sdfwq
 team: 小鳐鱼
 yggdrasil: true
 ---
@@ -13,15 +11,22 @@ yggdrasil: true
 
 ## 介绍
 
-1.20.1生存服务器。原版就能使用的3D枪械，需要进服的时候下载服务器资源包。还有技能，领地，金钱等插件。适合养老，建筑生存玩。支持正版+红石皮肤站登录，不支持离线。
+生存服务器，有两个区
+一区 插件服：多插件，有粘液科技，枪械，领地之类。防止破坏适合建筑养老
+            核心版本1.20.1 最好使用1.20.x客户端进入使用服务器资源包
+            
+二区 原版服：传送，经济，战斗功能。无保护建筑可能会被其他人摧毁
+            只要服务端，插件更新新版本了服务器就会更新到新版本，一般都是最新版游戏
+            
+练习区：     小功能，随便拿装备找朋友单挑练习
 
 
 ## 图片
 
-![服务器图片](/images/sdfwq/image.png)
-
+![一区主城图片](/images/sdfwq/one.png)
+![大厅图片](/images/sdfwq/lobby.png)
 
 ## 链接
 
 - [群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=c3H3uc1xiJZTYHXzCpUxzKtZ3sDoVCDm&authKey=hzrSxYRHcHrXdxLWpIgOeHnDFtTpvovUcehDJRn1zAbYzhkDM3a3aWbmZ5JgOfpz&noverify=0&group_code=798849711)
-- [注册红石账号](https://mcskin.cn/register)
+- [红石皮肤站](https://mcskin.com.cn/)
