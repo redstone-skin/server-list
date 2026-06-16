@@ -39,4 +39,4 @@ eljy创造服 — 自由创造，无限可能！
 
 ## 服务器截图
 
-![服务器截图](/images/eljy-creative-server/screenshot.jpg)
+![服务器截图](/images/Screenshot_20260530_142836_84181a524dcfbce864002b17997a7b1d.jpg)
