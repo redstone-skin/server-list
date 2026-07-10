@@ -1,6 +1,6 @@
 ---
 name: Helcappy创造服
-address: Helcappy.top
+address: Helcappy.mroindre.com
 group: 1080554626
 version: 26.1.2
 website: https://b23.tv/BYOLUAY
@@ -43,7 +43,7 @@ Helcappy创造服 — 自由创造，无限可能！
 
 | 服务器名称 | Helcappy |
 | :---: | :---: |
-| 服务器Java 地址 | Helcappy.top |
+| 服务器Java 地址 | Helcappy.mroindre.com |
 | 服务器基岩版地址 | play.simpfun.cn （端口26491) |
 | 服务器支持的版本 | 1.8.8-26.1.2,Java/基岩 |
 | 服务器宣传视频 | https://b23.tv/BYOLUAY |
