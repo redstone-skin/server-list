@@ -61,7 +61,7 @@ const maxPlayers = ref(0);
 const handleServerInfo = async () => {
   try {
     const res = await fetch(
-      `https://mcstat.mcskin.cn/api/status/${props.server}`
+      `https://mcstat.labx.ink/api/status/${props.server}`
     );
     const data = await res.json();
     if (data.online) {
